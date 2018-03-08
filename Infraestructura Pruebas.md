@@ -1,4 +1,4 @@
-# Guía Testing CADHU
+# Infraestructura Pruebas CADHU
 El propósito de esta guía es que cualquier miembro del equipo de CADHU sea capaz de diseñar, realizar y ejecutar pruebas de unidad, además de configurar, montar y actualizar el servidor de producción de manera automática. También se pretende que puedan integrar herramientas de Continious Integration como lo es TravisCI.
 
 ## Index
@@ -31,8 +31,8 @@ Se utilizará la suite de testing de Django de Unit Testing.
 En el análisis de cada historia de usuario, se deberá especificar el criterio de aceptación.
 A partir del criterio de aceptación, se diseñarán, realizarán y ejecutarán las pruebas siguiendo todos los casos que se presentaron en los criterios de aceptación.
 
-<a id="CI"></a>
-## Django
+<a id="Django"></a>
+## Configuración Django
 
 Para poder aplicar práticas como Continious Integration y Automated Deployment, es necesario que nuestro proyecto de django esté listo todo el tiempo para poder estár en producción por lo que se deberá hacer lo siguiente:
 
