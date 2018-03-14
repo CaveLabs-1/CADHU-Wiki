@@ -17,5 +17,14 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### PSP/Defect log
 
+* [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Luis%20Rodriguez%20PSP-Defects.pdf)
+* [Mauricio Hernandez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mauricio%20Hernández%20PSP-Defects.pdf)
+* [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Santiago%20PSP-Defects.pdf)
+* [Filiberto Vazquez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Fily%20PSP-Defects%20template.pdf)
+* [Marco Mancha](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mancha%20PSP-Defects.pdf)
+* [Alejandro Salmon]()
+* [Marco Luna]()
+
+#### Estatus
 
 Última edición: @Luisalfredrod marzo 14, 2018
