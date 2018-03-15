@@ -14,6 +14,9 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Estimación Function Points 2.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Function%20Points%20Estimation%20-%20Hoja%201.pdf)
 
 ## Construcción
+### Documentación General
+* [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Guía%20de%20Estilo%20y%20Estándares%20-%20CADHU.pdf)
+* [Criterios de Aceptación]()
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### PSP/Defect log
 
