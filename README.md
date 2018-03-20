@@ -25,9 +25,10 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Santiago%20PSP-Defects.pdf)
 * [Filiberto Vazquez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Fily%20PSP-Defects%20template.pdf)
 * [Marco Mancha](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mancha%20PSP-Defects.pdf)
-* [Alejandro Salmon]()
+* [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Salmón%20PSP-Defects%20template.xlsx)
 * [Marco Luna]()
 
 #### Estatus
+* [Documento de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
 
-Última edición: @Luisalfredrod marzo 14, 2018
+Última edición: @Luisalfredrod marzo 20, 2018
