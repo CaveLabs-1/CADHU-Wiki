@@ -260,3 +260,5 @@ En la raíz del proyecto deberá de crearse un script que sirva para poder activ
 
 <a id="sistema"></a>
 ## Pruebas de usabilidad
+
+última edición: MarcoMancha, 21 Marzo 2018.
