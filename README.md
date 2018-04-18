@@ -15,7 +15,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 ## Construcción
 ### Documentación General
-* [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Guía%20de%20Estilo%20y%20Estándares%20-%20CADHU.pdf)
+* [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
 * [Criterios de Aceptación](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Acceptance%20Criteria.pdf)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### PSP/Defect log
@@ -31,4 +31,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 #### Estatus
 * [Documento de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
 
-Última edición: @Luisalfredrod marzo 20, 2018
+Última edición: @MHSiles 18/04/2018
