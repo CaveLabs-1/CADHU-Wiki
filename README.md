@@ -17,7 +17,13 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ### Documentación General
 * [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
 * [Criterios de Aceptación](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Acceptance%20Criteria.pdf)
+* [Documento de Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
+
+#### Reporte de estatus 
+
+* [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
+
 #### PSP/Defect log
 
 * [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Luis%20Rodriguez%20PSP-Defects.pdf)
@@ -29,6 +35,12 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Luna]()
 
 ### Iteracion 2 (14 de marzo - 4 de abril)
+
+#### Reporte de estatus 
+
+* [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%202).xlsx)
+
+
 #### PSP/Defect log
 
 * [Luis Rodriguez]()
@@ -40,6 +52,11 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Luna]()
 
 ### Iteracion 3 (4 de abril - 18 de abril)
+
+#### Reporte de estatus 
+
+* [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%203).xlsx)
+
 #### PSP/Defect log
 
 * [Proyecto CADHU](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/3)
