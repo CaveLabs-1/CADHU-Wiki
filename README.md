@@ -17,7 +17,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ### Documentación General
 * [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
 * [Criterios de Aceptación](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Acceptance%20Criteria.pdf)
-* [Documento de Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
+* [Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
+* [Acciones Correctivos](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Acciones-Correctivas)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### Reporte de estatus 
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
