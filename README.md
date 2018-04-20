@@ -49,8 +49,6 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%203).xlsx)
 #### PSP/Defect log
 * [Proyecto CADHU](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/3)
-#### Estatus
-* [Documento de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
 #### Retrospectiva de la iteración
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%203.pdf)
 
