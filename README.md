@@ -5,7 +5,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Definición del Projecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Definición%20del%20Proyecto%20(Jimmy).pdf)
 * [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Propuesta%20de%20Proyecto%20(Timmy).pdf)
 * [Matriz de requerimientos 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20Requerimientos.pdf)
-* [Matriz de trazabilidad 2.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad.xlsx)
+* [Matriz de trazabilidad 3.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad.xlsx)
 * [Modelo Entidad Relacion](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Modelos%20Lógicos.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Componentes%20del%20sistema.pdf)
 * [Definición de Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Definición%20de%20Arquitectura%20Inicial.pdf)
