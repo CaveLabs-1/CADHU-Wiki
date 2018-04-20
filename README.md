@@ -34,12 +34,15 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Salmón%20PSP-Defects%20template.xlsx)
 * [Marco Luna]()
 
+#### Retrospectiva de la iteración
+
+* [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
+
 ### Iteracion 2 (14 de marzo - 4 de abril)
 
 #### Reporte de estatus 
 
-* [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%202).xlsx)
-
+* [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20iteración%202.pdf)
 
 #### PSP/Defect log
 
@@ -50,6 +53,10 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Mancha]()
 * [Alejandro Salmon]()
 * [Marco Luna]()
+
+#### Retrospectiva de la iteración
+
+* [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
 
 ### Iteracion 3 (4 de abril - 18 de abril)
 
