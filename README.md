@@ -19,6 +19,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
 * [Acciones Correctivas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Acciones-Correctivas)
 * [Matriz de Riesgos 1.2](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20riesgos%20v1.2-3.xlsx)
+* [Minutas de seguimiento con el cliente](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Minutas)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### Reporte de estatus 
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
