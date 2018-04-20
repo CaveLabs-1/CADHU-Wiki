@@ -45,7 +45,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Luna](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Marco%20Luna%20PSP-Defects.xlsx)
 #### Retrospectiva de la iteración
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
-### Iteracion 3 (4 de abril - 18 de abril)
+### Iteracion 3 (5 de abril - 19 de abril)
 #### Reporte de estatus 
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%203).xlsx)
 #### PSP/Defect log
