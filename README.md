@@ -6,7 +6,6 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Propuesta%20de%20Proyecto%20(Timmy).pdf)
 * [Matriz de requerimientos 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20Requerimientos.pdf)
 * [Matriz de trazabilidad 2.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad2.1.pdf)
-* [Matriz de Riesgos 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20riesgos.pdf)
 * [Modelo Entidad Relacion](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Modelos%20Lógicos.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Componentes%20del%20sistema.pdf)
 * [Definición de Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Definición%20de%20Arquitectura%20Inicial.pdf)
@@ -18,7 +17,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
 * [Criterios de Aceptación](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Acceptance%20Criteria.pdf)
 * [Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
-* [Acciones Correctivos](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Acciones-Correctivas)
+* [Acciones Correctivas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Acciones-Correctivas)
+* [Matriz de Riesgos 1.2](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20riesgos%20v1.2-3.xlsx)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
 #### Reporte de estatus 
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
