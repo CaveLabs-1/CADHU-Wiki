@@ -19,13 +19,9 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Criterios de Aceptación](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Acceptance%20Criteria.pdf)
 * [Documento de Reporte de Estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20General%20CADHU%20v2.0.xlsx)
 ### Iteracion 1 (21 de febrero - 13 de marzo)
-
 #### Reporte de estatus 
-
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
-
 #### PSP/Defect log
-
 * [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Luis%20Rodriguez%20PSP-Defects.pdf)
 * [Mauricio Hernandez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mauricio%20Hernández%20PSP-Defects.pdf)
 * [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Santiago%20PSP-Defects.pdf)
@@ -33,19 +29,12 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Mancha](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mancha%20PSP-Defects.pdf)
 * [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Salmón%20PSP-Defects%20template.xlsx)
 * [Marco Luna]()
-
 #### Retrospectiva de la iteración
-
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
-
 ### Iteracion 2 (14 de marzo - 4 de abril)
-
 #### Reporte de estatus 
-
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20iteración%202.pdf)
-
 #### PSP/Defect log
-
 * [Luis Rodriguez]()
 * [Mauricio Hernandez]()
 * [Santiago Valencia]()
@@ -53,22 +42,16 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Marco Mancha]()
 * [Alejandro Salmon]()
 * [Marco Luna]()
-
 #### Retrospectiva de la iteración
-
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
-
 ### Iteracion 3 (4 de abril - 18 de abril)
-
 #### Reporte de estatus 
-
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU%20(Iteración%203).xlsx)
-
 #### PSP/Defect log
-
 * [Proyecto CADHU](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/3)
-
 #### Estatus
 * [Documento de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20CADHU(%20Iteración%201).xlsx)
+#### Retrospectiva de la iteración
+* [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%203.pdf)
 
-Última edición: @MHSiles 19/04/2018
+Última edición: @filyv 20/04/2018
