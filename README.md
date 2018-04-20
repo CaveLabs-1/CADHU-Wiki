@@ -5,7 +5,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Definición del Projecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Definición%20del%20Proyecto%20(Jimmy).pdf)
 * [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Propuesta%20de%20Proyecto%20(Timmy).pdf)
 * [Matriz de requerimientos 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20Requerimientos.pdf)
-* [Matriz de trazabilidad 2.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad2.1.pdf)
+* [Matriz de trazabilidad 2.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad.xlsx)
 * [Modelo Entidad Relacion](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Modelos%20Lógicos.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Componentes%20del%20sistema.pdf)
 * [Definición de Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Definición%20de%20Arquitectura%20Inicial.pdf)
@@ -37,13 +37,12 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 #### Reporte de estatus 
 * [Documento de reporte de estatus](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20iteración%202.pdf)
 #### PSP/Defect log
-* [Luis Rodriguez]()
-* [Mauricio Hernandez]()
-* [Santiago Valencia]()
-* [Filiberto Vazquez]()
-* [Marco Mancha]()
-* [Alejandro Salmon]()
-* [Marco Luna]()
+* [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Luis%20Rodriguez%20PSP-Defects.xlsx)
+* [Mauricio Hernandez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Mauricio%20Hernández%20PSP-Defects%20IT2.xlsx)
+* [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Santiago%20PSP-Defects.xlsx)
+* [Filiberto Vazquez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Fily%20PSP-Defects%20(Iteración%202).xlsx)
+* [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Salmon%20PSP-Defects.xlsx)
+* [Marco Luna](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Marco%20Luna%20PSP-Defects.xlsx)
 #### Retrospectiva de la iteración
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%201.pdf)
 ### Iteracion 3 (4 de abril - 18 de abril)
