@@ -53,4 +53,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 #### Retrospectiva de la iteración
 * [Documento de retrospectiva](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Retrospectiva%20Iteración%203.pdf)
 
-Última edición: @filyv 20/04/2018
+## Transición (26 de abril - 30 de abril)
+* [Evaluación de Heurísticas](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Evaluaci%C3%B3n%20de%20Heur%C3%ADstica.pdf)
+
+Última edición: @agovc mayo 2, 2018
