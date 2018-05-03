@@ -38,23 +38,4 @@ Estos documentos están bajo el control de versiones.
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Minutas)
 
-### Iteracion 1 (21 de febrero - 13 de marzo)
-#### PSP/Defect log
-* [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Luis%20Rodriguez%20PSP-Defects.pdf)
-* [Mauricio Hernandez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mauricio%20Hernández%20PSP-Defects.pdf)
-* [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Santiago%20PSP-Defects.pdf)
-* [Filiberto Vazquez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Fily%20PSP-Defects%20template.pdf)
-* [Marco Mancha](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Mancha%20PSP-Defects.pdf)
-* [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/Salmón%20PSP-Defects%20template.xlsx)
-* [Marco Luna]()
-
-### Iteracion 2 (14 de marzo - 4 de abril)
-#### PSP/Defect log
-* [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Luis%20Rodriguez%20PSP-Defects.xlsx)
-* [Mauricio Hernandez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Mauricio%20Hernández%20PSP-Defects%20IT2.xlsx)
-* [Santiago Valencia](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Santiago%20PSP-Defects.xlsx)
-* [Filiberto Vazquez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Fily%20PSP-Defects%20(Iteración%202).xlsx)
-* [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Salmon%20PSP-Defects.xlsx)
-* [Marco Luna](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Marco%20Luna%20PSP-Defects.xlsx)
-
 Última edición: @filyv mayo 2, 2018
