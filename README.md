@@ -12,15 +12,12 @@ Estos documentos están bajo el control de versiones.
 * [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Definicion_de_Arquitectura.pdf)
 * [Estimación Function Points v1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Calculo%20de%20Estimaciones%20-%20CADHU.pdf)
 * [Manual del Usuario v1.3](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Manuales/Documentacion_del_manual%20de_usuario.pdf)
-* [Guia de Estilos v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
+* [Guia de Estilos v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf): La guía de estilos contiene los estándares de diseño y estética del Sistema CADHU.
 * [Modelo Goal Question Metric v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurísticas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Evaluación%20de%20Heur%C3%ADstica.pdf)
 * WBS: El WBS no se agregó a la línea base ya que se hacía constantemente en los estatus del proyecto
 * [Código](https://github.com/CaveLabs-1/CADHU)
-* [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/ServerTesting.md)
-* [Matriz de requerimientos v1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Matriz%20Requerimientos.pdf)
-* [Modelo Lógico v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Modelo_Logico_CADHU.pdf)
-* [Criterios de Aceptación v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Acceptance%20Criteria.pdf)
+* [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/ServerTesting.md): Los resultados de server tests del proyecto.
 
 ## Línea de Trabajo
 
@@ -33,10 +30,10 @@ Estos documentos están bajo el control de versiones.
 * [Estatus General del Proyecto](https://docs.google.com/spreadsheets/d/154k3kPaD-NvHJSYC30I6yc2aDNJTzQXzWL8IUHdGHwM/edit#gid=0)
 * [PSP/Defect Logs](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/PSP)
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1EwgA8RLn8eRbIdxVmesfgDMkeKHs4jivgZNqXx-G810/edit#gid=2120187583)
-* [Matriz de trazabilidad](https://docs.google.com/spreadsheets/d/1GCfCVL9t30yU4iZbnhsLIBZyojTnUUS2IGu1KHF667A/edit#gid=146351742)
+* [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1GCfCVL9t30yU4iZbnhsLIBZyojTnUUS2IGu1KHF667A/edit#gid=146351742)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1feuzyJ_IlDxCsWHNCTDGSem9nTR8CaW2kbISLHn-P74/edit#gid=1467550855)
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
 
-Última edición: @filyv mayo 2, 2018
+Última edición: @filyv mayo 3, 2018
