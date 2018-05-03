@@ -1,4 +1,4 @@
-# PSPs y Defect Logs - CADHU
+# PSP & Defect Logs - CADHU
 
 ## Iteración 1 (21 de febrero - 13 de marzo)
 * [Luis Rodriguez](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/IT1/Luis%20Rodriguez%20PSP-Defects.pdf)
