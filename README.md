@@ -5,8 +5,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 Estos documentos están bajo el control de versiones.
 
-* [Definición del Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Definición%20del%20Proyecto%20(Jimmy).pdf)
-* [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Propuesta%20de%20Proyecto%20(Timmy).pdf)
+* [Definición del Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Project%20Definition.pdf)
+* [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20sistema.pdf)
 * [Flujo de Vistas 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20Vistas%20y%20Arquitectura%20Inicial.pdf)
 * [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Definición%20de%20Arquitectura.pdf)
