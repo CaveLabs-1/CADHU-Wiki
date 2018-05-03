@@ -9,7 +9,7 @@ Estos documentos están bajo el control de versiones.
 * [Propuesta de Proyecto 2.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20sistema.pdf)
 * [Flujo de Vistas 1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20Vistas%20y%20Arquitectura%20Inicial.pdf)
-* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Documentacion/Arquitectura)
+* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Definición%20de%20Arquitectura.pdf)
 * [Estimación Function Points v1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Requerimientos/Calculo%20de%20Estimaciones%20-%20CADHU.pdf)
 * [Manual del Usuario v1.3](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Manuales/Documentación%20del%20manual%20de%20usuario.pdf)
 * [Guia de Estilos](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf)
