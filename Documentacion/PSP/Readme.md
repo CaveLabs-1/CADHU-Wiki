@@ -17,5 +17,5 @@
 * [Marco Luna](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/IT2/Marco%20Luna%20PSP-Defects.pdf)
 * [Alejandro Salmon](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/PSP/IT2/Salmon%20PSP-Defects.xlsx)
 
-## Iteración 2 (4 de abril - 14 de marzo)
+## Iteración 3 (4 de abril - 14 de marzo)
 * [PSP/Defect Logs de CADHU](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/3)
