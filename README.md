@@ -17,6 +17,7 @@ Estos documentos están bajo el control de versiones.
 * [Resultados de Heurísticas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Evaluación%20de%20Heur%C3%ADstica.pdf)
 * [Código](https://github.com/CaveLabs-1/CADHU)
 * [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/ServerTesting.md): Los resultados de server tests del proyecto.
+* [Formato SWAT v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/Swat_cadhu/Documentacion/Arquitectura/SWATCadhu.pdf)
 
 ## Línea de Trabajo
 
@@ -34,5 +35,3 @@ Estos documentos están bajo el control de versiones.
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
-
-Última edición: @filyv mayo 3, 2018
