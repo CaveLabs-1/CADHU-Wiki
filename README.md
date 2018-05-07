@@ -18,7 +18,7 @@ Estos documentos están bajo el control de versiones.
 * WBS: El WBS no se agregó a la línea base ya que se hacía constantemente en los estatus del proyecto
 * [Código](https://github.com/CaveLabs-1/CADHU)
 * [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/ServerTesting.md): Los resultados de server tests del proyecto.
-* [Formato Swat v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/Swat_cadhu/Documentacion/Arquitectura/SWATCadhu.pdf): Resultados de las pruebas swat
+* [Formato SWAT v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/Swat_cadhu/Documentacion/Arquitectura/SWATCadhu.pdf)
 
 ## Línea de Trabajo
 
