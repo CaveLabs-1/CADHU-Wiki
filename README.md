@@ -36,5 +36,3 @@ Estos documentos están bajo el control de versiones.
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
-
-Última edición: @filyv mayo 3, 2018
