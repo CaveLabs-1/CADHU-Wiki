@@ -14,7 +14,7 @@ Estos documentos están bajo el control de versiones.
 * [Manual del Usuario v1.4](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Manuales/Manual_del_Usuario_CADHU.pdf)
 * [Guia de Estilos v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Gui%CC%81a%20de%20Estilo%20y%20Esta%CC%81ndares%20-%20CADHU.pdf): La guía de estilos contiene los estándares de diseño y estética del Sistema CADHU.
 * [Handbook de Arquitectura v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Arquitectura/Handbook%20de%20Arquitectura.pdf)
-* [Modelo Goal Question Metric v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
+* [Modelo Goal Question Metric v1.1](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurísticas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/Evaluación%20de%20Heur%C3%ADstica.pdf)
 * [Código](https://github.com/CaveLabs-1/CADHU)
 * [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/CADHU-Wiki/blob/master/Documentacion/ServerTesting.md): Los resultados de server tests del proyecto.
