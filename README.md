@@ -33,7 +33,7 @@ Estos documentos están bajo el control de versiones.
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1EwgA8RLn8eRbIdxVmesfgDMkeKHs4jivgZNqXx-G810/edit#gid=2120187583)
 * [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1GCfCVL9t30yU4iZbnhsLIBZyojTnUUS2IGu1KHF667A/edit#gid=146351742)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1feuzyJ_IlDxCsWHNCTDGSem9nTR8CaW2kbISLHn-P74/edit#gid=1467550855)
-
+* [Estatus del Proyecto Segunda Iteración](https://docs.google.com/spreadsheets/d/1tlLRjMDW6O1nGM8A04gJUfUCgnnmRbWYDfiglmK3vZQ/edit?usp=sharing)
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
 
