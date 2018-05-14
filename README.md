@@ -24,8 +24,12 @@ Estos documentos están bajo el control de versiones.
 
 * [Estatus del Proyecto Primera Iteración](https://docs.google.com/spreadsheets/d/1f0BGn505XRNUiGzscuJ3Esy8Qwo6LILVE88FCh6EBjc/edit#gid=1638927579)
 * [Retrospectiva Primera Iteración](https://docs.google.com/document/d/1QhNAef3NcpIMLWGKI3p5_t46p5pThk_xfmSUZdKFUBk/edit)
+* [Solicitud de Cambios Segunda Iteración](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Solicitud2.pdf)
+* [Evaluación de Cambios Segunda Iteración](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Evaluacion2.pdf)
 * [Estatus del Proyecto Segunda Iteración](https://docs.google.com/spreadsheets/d/188aCw6_MmOQE0a07Z95qGh2OF4kFhjQWEkK2BE5Krvo/edit#gid=366230255)
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/10Ub306ZJ7fBNpcbQo1G-boHb43n0fpDfpJralVIyTN0/edit)
+* [Solicitud de Cambios Tercera Iteración](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Solicitud3.pdf)
+* [Evaluación de Cambios Tercera Iteración](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Evaluacion3.pdf)
 * [Estatus del Proyecto Tercera Iteración](https://docs.google.com/spreadsheets/d/1HOu2gOFEposBDiOzPR4gn7nbcjro7fCdo37wtiKUuJI/edit#gid=1453649891)
 * [Retrospectiva Tercera Iteración](https://docs.google.com/document/d/1Uiw5ojuiP8pPwABzDNJdKZ5_NnIlZGipDx5HmuVAnqc/edit)
 * [Estatus General del Proyecto](https://docs.google.com/spreadsheets/d/154k3kPaD-NvHJSYC30I6yc2aDNJTzQXzWL8IUHdGHwM/edit#gid=0)
@@ -34,6 +38,7 @@ Estos documentos están bajo el control de versiones.
 * [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1GCfCVL9t30yU4iZbnhsLIBZyojTnUUS2IGu1KHF667A/edit#gid=146351742)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1feuzyJ_IlDxCsWHNCTDGSem9nTR8CaW2kbISLHn-P74/edit#gid=1467550855)
 * [Estatus del Proyecto Fase de Transición](https://docs.google.com/spreadsheets/d/1tlLRjMDW6O1nGM8A04gJUfUCgnnmRbWYDfiglmK3vZQ/edit?usp=sharing)
+* [Acceptance Criteria](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Acceptance_Criteria.pdf)
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
 
