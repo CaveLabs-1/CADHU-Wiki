@@ -38,8 +38,8 @@ Estos documentos están bajo el control de versiones.
 * [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1GCfCVL9t30yU4iZbnhsLIBZyojTnUUS2IGu1KHF667A/edit#gid=146351742)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1feuzyJ_IlDxCsWHNCTDGSem9nTR8CaW2kbISLHn-P74/edit#gid=1467550855)
 * [Estatus del Proyecto Fase de Transición](https://docs.google.com/spreadsheets/d/1tlLRjMDW6O1nGM8A04gJUfUCgnnmRbWYDfiglmK3vZQ/edit?usp=sharing)
-* [Acceptance Criteria](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Acceptance_Criteria.pdf)
+* [Aceptación del sistema](https://github.com/CaveLabs-1/CADHU-Wiki/blob/lunamrcc/Documentos/Documentacion/Requerimientos/Acceptance_Criteria.pdf)
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/CADHU-Wiki/tree/master/Minutas)
 
-Última edición: @pirty6 14/05/2018
+Última edición: @filyv 14/05/2018
